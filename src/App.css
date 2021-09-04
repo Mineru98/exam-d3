@@ -4,3 +4,13 @@ svg {
 svg#s-line {
 	overflow: visible;
 }
+
+div.row {
+	display: flex;
+	flex: 1;
+	flex-direction: row;
+}
+div.column {
+	display: flex;
+	flex: 1;
+}
